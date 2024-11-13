@@ -1,4 +1,4 @@
-// Create Web server
+// Create web server
 // Create a function that will be called when a request is made to the server
 // The function will return a response with the comments as the body
 // Start the server on port 3000
